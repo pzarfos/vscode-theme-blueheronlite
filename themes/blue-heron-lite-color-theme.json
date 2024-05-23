@@ -196,7 +196,11 @@
 		},
 		{
 			"name": "Strings",
-			"scope": "string",
+			"scope": [
+				"string",
+				"string.regexp",
+				"constant.other.symbol"
+			],
 			"settings": {
 				"foreground": "#0000CD"
 			}
@@ -205,21 +209,7 @@
 			"name": "Strings: Escape Sequences",
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#666666"
-			}
-		},
-		{
-			"name": "Strings: Regular Expressions",
-			"scope": "string.regexp",
-			"settings": {
-				"foreground": "#0000CD"
-			}
-		},
-		{
-			"name": "Strings: Symbols",
-			"scope": "constant.other.symbol",
-			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#6666CD"
 			}
 		},
 		{
@@ -310,7 +300,7 @@
 				"support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#000000"
 			}
 		},
 		{
