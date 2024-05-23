@@ -1,0 +1,15 @@
+**/*.map
+**/*.ts
+*.vsix
+.devcontainer/
+.github/
+.gitignore
+.vscode-test/**
+.vscode/**
+node_modules/**
+out/**
+package-lock.json
+test/**
+tsconfig.json
+typings/**
+webpack.config.js

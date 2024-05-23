@@ -1,0 +1,23 @@
+{
+  "name": "blueheronlite",
+  "displayName": "Blue Heron Lite",
+  "description": "A light theme minimal colors",
+  "version": "0.1.0",
+  "publisher": "blueheronlabs",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "license": "LICENSE.md",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blue Heron Lite",
+        "uiTheme": "vs",
+        "path": "./themes/blue-heron-lite-color-theme.json"
+      }
+    ]
+  }
+}

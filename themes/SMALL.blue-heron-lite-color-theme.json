@@ -1,0 +1,59 @@
+{
+  "name": "Blue Heron Lite",
+  "type": "light",
+  "colors": {
+    "editor.background": "#FFFFFF",
+    "editor.foreground": "#000000",
+    "editorCursor.foreground": "#000000",
+    "editor.lineHighlightBackground": "#F0F0004A",
+    "editorLineNumber.foreground": "#222222",
+    "editor.selectionBackground": "#00E0E04A",
+    "editor.inactiveSelectionBackground": "#00E0E01A"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "keyword",
+        "constant.language",
+        "storage"
+      ],
+      "settings": {
+        "foreground": "#000000",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": [
+        "support.type.property-name",
+        "variable",
+        "variable.parameter"
+      ],
+      "settings": {
+        "foreground": "#000000"
+      }
+    },
+    {
+      "scope": "constant.numeric",
+      "settings": {
+        "foreground": "#00008B",  // very dark blue
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": [
+        "string",
+        "constant.character",
+        "constant.other"
+      ],
+      "settings": {
+        "foreground": "#0000CD"  // dark blue
+      }
+    },
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "#777777"  // gray
+      }
+    }
+  ]
+}
