@@ -21,7 +21,7 @@ This theme is a return to our roots. It's designed to provide a clean, distracti
 
 ## Preview
 
-![](images/themes-blueheronllite.jpg)
+![](images/themes-blueheronlite.jpg)
 
 ## Development
 

@@ -11,6 +11,14 @@
     "Themes"
   ],
   "license": "LICENSE.md",
+  "homepage": "https://github.com/pzarfos/vscode-theme-blueheronlite/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pzarfos/vscode-theme-blueheronlite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pzarfos/vscode-theme-blueheronlite/issues"
+  },
   "contributes": {
     "themes": [
       {
