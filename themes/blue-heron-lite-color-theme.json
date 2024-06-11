@@ -51,8 +51,7 @@
 	"tokenColors": [
 		{
 			"settings": {
-				"foreground": "#333333ff",
-				"background": "#f5f5f5ff"
+				"foreground": "#000"
 			}
 		},
 		{
@@ -64,7 +63,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#8aaa8a"  // 6d866d: a nice gray-green but not light enough
+				"foreground": "#8aaa8a"
 			}
 		},
 		{
