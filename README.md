@@ -41,6 +41,13 @@ After making changes to a theme, you need to regenerate the `vsix` file:
 vsce package
 ```
 
+### Install the VSIX file
+
+1. Go to Extensions
+2. Click the "..." menu at the top
+3. Select "Install from VSIX"
+4. Select your `vsix` file and click Install
+
 ## License
 
 [MIT](LICENSE.md)
